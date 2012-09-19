@@ -18,6 +18,7 @@ group :development, :test do
   gem 'pry-remote'
   gem 'pry-stack_explorer'
   gem 'pry-debugger'
+  gem 'spork-rails'
 end
 
 group :test do
