@@ -23,7 +23,6 @@ end
 
 group :test do
   gem 'timecop'
-  gem 'nyan-cat-formatter'
   gem 'webmock'
 end
 
